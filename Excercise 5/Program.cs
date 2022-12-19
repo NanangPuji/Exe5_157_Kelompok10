@@ -1,5 +1,4 @@
-﻿
-namespace Exercise
+﻿namespace Exercise
 {
     class Queue
     {
